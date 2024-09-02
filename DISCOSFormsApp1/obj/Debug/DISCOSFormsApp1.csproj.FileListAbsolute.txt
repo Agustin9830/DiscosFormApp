@@ -1,0 +1,10 @@
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\bin\Debug\DISCOSFormsApp1.exe.config
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\bin\Debug\DISCOSFormsApp1.exe
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\bin\Debug\DISCOSFormsApp1.pdb
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.csproj.AssemblyReference.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.Form1.resources
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.Properties.Resources.resources
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.csproj.GenerateResource.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.csproj.CoreCompileInputs.cache
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.exe
+D:\MAXI PROGRAMA\NUEVO CURSO C# NIVEL 2\.vs\DISCOSFormsApp1\DISCOSFormsApp1\obj\Debug\DISCOSFormsApp1.pdb
